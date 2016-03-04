@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/146.ts</location>
+			<title>Tvsh</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/302.ts</location>
+			<title>Rtsh HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/99.ts</location>
+			<title>Top Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/100.ts</location>
+			<title>Top Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/115.ts</location>
+			<title>Klan HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/113.ts</location>
+			<title>Klan TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/144.ts</location>
+			<title>Klan Plus HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/145.ts</location>
+			<title>Vizion Plus</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/367.ts</location>
+			<title>TV Kopliku</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/366.ts</location>
+			<title>TV Rozafa Shkoder</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/332.ts</location>
+			<title>TV1 Shkodra</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/340.ts</location>
+			<title>Star Plus Shkodra</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/674.ts</location>
+			<title>Shenja</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/140.ts</location>
+			<title>Alsat M</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/136.ts</location>
+			<title>◄☼►Lajme◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/184.ts</location>
+			<title>Kanali 7</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/141.ts</location>
+			<title>Abc News HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/98.ts</location>
+			<title>Top News</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/143.ts</location>
+			<title>24News</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/110.ts</location>
+			<title>Ora News</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/142.ts</location>
+			<title>A1 Report</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/666.ts</location>
+			<title>◄☼►Muzike◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/301.ts</location>
+			<title>Rtsh Muzike</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/326.ts</location>
+			<title>BBF</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/201.ts</location>
+			<title>My Music</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/196.ts</location>
+			<title>MusicAL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/121.ts</location>
+			<title>First</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/325.ts</location>
+			<title>Dasma TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/675.ts</location>
+			<title>Ballkanika</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/324.ts</location>
+			<title>Elrodi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/323.ts</location>
+			<title>Folk</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/350.ts</location>
+			<title>Folklorit</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/344.ts</location>
+			<title>SusperSonic</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/107.ts</location>
+			<title>STV Folk</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/187.ts</location>
+			<title>Click</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/667.ts</location>
+			<title>◄☼►Filma◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/123.ts</location>
+			<title>Film Nje HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/127.ts</location>
+			<title>Film Dy HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/130.ts</location>
+			<title>Film Aksion</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/122.ts</location>
+			<title>Film Thriller</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/124.ts</location>
+			<title>Film Komedi</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/128.ts</location>
+			<title>Film Drame</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/129.ts</location>
+			<title>Film Autor</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/137.ts</location>
+			<title>Digi Gold</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/126.ts</location>
+			<title>Film Hits</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/125.ts</location>
+			<title>Film Hits  1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/305.ts</location>
+			<title>Channel One HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/101.ts</location>
+			<title>T HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/197.ts</location>
+			<title>Stinet</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/156.ts</location>
+			<title>Tring Max</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/159.ts</location>
+			<title>Tring Fantasy</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/175.ts</location>
+			<title>Tring Comedy</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/157.ts</location>
+			<title>Tring Life</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/154.ts</location>
+			<title>Tring Shqip</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/148.ts</location>
+			<title>Tring Tring</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/149.ts</location>
+			<title>Tring Super</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/160.ts</location>
+			<title>Tring 3 Plus</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/360.ts</location>
+			<title>Kino Premiere 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/359.ts</location>
+			<title>Kino Premiere 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/343.ts</location>
+			<title>Kino Premiere 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/322.ts</location>
+			<title>Kino Sci Fi HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/347.ts</location>
+			<title>Film GOLD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/364.ts</location>
+			<title>Film GOLD 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/365.ts</location>
+			<title>Film GOLD 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/671.ts</location>
+			<title>◄☼►Sport◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/300.ts</location>
+			<title>Rtsh Sport</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/191.ts</location>
+			<title>Telesport</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/106.ts</location>
+			<title>Super Sport 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/105.ts</location>
+			<title>Super Sport 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/104.ts</location>
+			<title>Super Sport 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/103.ts</location>
+			<title>Super Sport 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/178.ts</location>
+			<title>Super Sport 5 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/177.ts</location>
+			<title>Super Sport 6 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/312.ts</location>
+			<title>SS Kosova 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/313.ts</location>
+			<title>SS Kosova 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/308.ts</location>
+			<title>Tring Sport News HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/153.ts</location>
+			<title>Tring Sport 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/152.ts</location>
+			<title>Tring Sport 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/151.ts</location>
+			<title>Tring Sport 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/150.ts</location>
+			<title>Tring Sport 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/669.ts</location>
+			<title>◄☼►Kulture◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/131.ts</location>
+			<title>EXP Shkenca</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/112.ts</location>
+			<title>EXP Natyra</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/133.ts</location>
+			<title>EXP Histori</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/147.ts</location>
+			<title>Tring World</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/155.ts</location>
+			<title>Tring Planet</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/158.ts</location>
+			<title>Tring History</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/181.ts</location>
+			<title>Nat Geographic</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/161.ts</location>
+			<title>Travel Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/668.ts</location>
+			<title>◄☼►Tematike◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/319.ts</location>
+			<title>Tirana TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/167.ts</location>
+			<title>Living HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/168.ts</location>
+			<title>Jolly HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/169.ts</location>
+			<title>Fox</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/185.ts</location>
+			<title>Fox Life</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/186.ts</location>
+			<title>Fox Crime</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/328.ts</location>
+			<title>Smile</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/182.ts</location>
+			<title>Muse</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/299.ts</location>
+			<title>Tema Tv</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/307.ts</location>
+			<title>Ant 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/670.ts</location>
+			<title>◄☼►Femije◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/176.ts</location>
+			<title>Tip TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/138.ts</location>
+			<title>Cufo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/139.ts</location>
+			<title>Bang Bang</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/116.ts</location>
+			<title>Junior TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/306.ts</location>
+			<title>Cartoon Network</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/190.ts</location>
+			<title>Sofia</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/166.ts</location>
+			<title>RTV 21 Junior</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/673.ts</location>
+			<title>◄☼►Kosovare◄☼►</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/180.ts</location>
+			<title>RTK</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/311.ts</location>
+			<title>RTK 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/329.ts</location>
+			<title>RTK 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/179.ts</location>
+			<title>RTV 21</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/165.ts</location>
+			<title>RTV 21 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/164.ts</location>
+			<title>RTV 21 Maqedonia</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/114.ts</location>
+			<title>Klan Kosova HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/47.ts</location>
+			<title>Ktv HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/318.ts</location>
+			<title>TV Koha Tetovë HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/338.ts</location>
+			<title>TV Tetova HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/339.ts</location>
+			<title>TV Sharri HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/342.ts</location>
+			<title>MRT 2 Maqedoni</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/321.ts</location>
+			<title>Rrokum HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/348.ts</location>
+			<title>Digi Sofia</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.101.68:8000/live/gent/gent/349.ts</location>
+			<title>Club TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+	</extension>
+</playlist>

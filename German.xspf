@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/583.m3u8</location>
+			<title>DE_Sky_Select_8HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/582.m3u8</location>
+			<title>DE_Sky_Select_7HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/581.m3u8</location>
+			<title>DE_Sky_Select_6HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/584.m3u8</location>
+			<title>DE_Sky_Select_9HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/574.m3u8</location>
+			<title>DE: Sky AtlanticHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/580.m3u8</location>
+			<title>DE:sky.select5.HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/718.m3u8</location>
+			<title>DE:sky_select4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/579.m3u8</location>
+			<title>DE:sky.select3.HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/578.m3u8</location>
+			<title>DE:sky.select2.HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/577.m3u8</location>
+			<title>DE:Sky.Select1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/576.m3u8</location>
+			<title>DE:Sky.National.GeographicHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/575.m3u8</location>
+			<title>DE: Sky.Discovery.Channel.HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/296.m3u8</location>
+			<title>DE: Sky Sport 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/297.m3u8</location>
+			<title>DE:Sky Sport 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/459.m3u8</location>
+			<title>DE:WDR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/460.m3u8</location>
+			<title>DE:SPORT TIME TV 7 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/461.m3u8</location>
+			<title>DE:SPORT TIME TV 6 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/462.m3u8</location>
+			<title>DE:SPORT TIME TV 5 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/463.m3u8</location>
+			<title>DE:SPORT TIME TV 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/464.m3u8</location>
+			<title>DE:SPORT TIME TV 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/465.m3u8</location>
+			<title>DE:SPORT TIME TV 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/466.m3u8</location>
+			<title>DE:SPORT TIME TV 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/467.m3u8</location>
+			<title>DE:sky cinema HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/468.m3u8</location>
+			<title>DE: Sky Cinema  24 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/469.m3u8</location>
+			<title>DE: Sky Bundesliga 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/470.m3u8</location>
+			<title>DE: Sky Action HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/471.m3u8</location>
+			<title>DE: FOX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/713.m3u8</location>
+			<title>DE-SKY EMOTION</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/714.m3u8</location>
+			<title>DE: SKY Comedy HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/715.m3u8</location>
+			<title>DE:Sky Him3u8</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/619.m3u8</location>
+			<title>DE: Sky 13 Street HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/620.m3u8</location>
+			<title>DE: ORF 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/621.m3u8</location>
+			<title>DE: ORF 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://163.172.16.246:9998/live/mile/skype/622.m3u8</location>
+			<title>DE: Kika HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+	</extension>
+</playlist>
